@@ -9,3 +9,5 @@ Pictures (BMP, GIF, JPG, PNG) will display thumbnails.<br><br>
 Directory listing is in a table format with file sizes and creation dates.<br><br>
 This script also supports IP Address & Port binding.<br><br>
 Change 'SimpleHTTPServerWithUpload.sh' to suit your requirements.
+
+using sh ./SimpleHTTPServerWithUpload.sh to start service
